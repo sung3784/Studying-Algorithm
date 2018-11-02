@@ -2,7 +2,7 @@ package test;
 
 import java.util.Scanner;
 
-public class Test {
+public class A009beamCounter {
 
 	 public static void main(String[] args) {
 	        // í»İÂªÎÔğëòªÊåëåŞªÇ

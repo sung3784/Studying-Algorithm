@@ -1,6 +1,7 @@
 package test;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Scanner;
 
 public class test1 {
 
@@ -8,7 +9,8 @@ public class test1 {
 		// TODO Auto-generated method stub
      // í»İÂªÎÔğëòªÊåëåŞªÇ
         // Let's «Á«ã«ì«ó«¸£¡£¡
-
+		HashMap<String,Integer> map=new HashMap<>();
+		
         Scanner sc = new Scanner(System.in);
         int B=1;
         int W=2;
