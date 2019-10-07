@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class Main {
+public class C028 {
     public static void main(String[] args) {
         // 自分の得意な言語で
         // Let's チャレンジ！！
